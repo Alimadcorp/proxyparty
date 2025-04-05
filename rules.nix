@@ -272,4 +272,9 @@
     redirect = "high-seas.hackclub.com";
     dest = "https://highseas.hackclub.com";
   }
+
+  {
+    redirect = "alimad.hackclub.com";
+    dest = "https://alimad.vercel.app";
+  } 
 ]
